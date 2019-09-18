@@ -1,6 +1,5 @@
 import * as functions from 'firebase-functions';
 import express from 'express';
-import consign from 'consign';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 import routes from './routes';
